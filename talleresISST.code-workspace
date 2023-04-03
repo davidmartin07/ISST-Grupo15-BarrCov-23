@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "tfgapi0"
+		},
+		{
+			"name": "tfgweb0",
+			"path": "tfgweb0"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}
